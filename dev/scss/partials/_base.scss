@@ -1,0 +1,16 @@
+body{
+    position: relative;
+    font-size: 12px;
+    font-weight: 100;
+    font-family: $ff5;
+}
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+.container-fluid{
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
